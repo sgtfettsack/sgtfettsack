@@ -13,4 +13,4 @@ https://discord.gg/f5jvwrYGSt
 
 [😉] Check them all out.
 
-REPOS: https://github.com/sgtfettsack?tab=repositories
+ALL SCRIPTS/PROGRAMMS: https://github.com/sgtfettsack?tab=repositories
