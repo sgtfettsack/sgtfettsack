@@ -3,4 +3,4 @@
 
 [😉] Check them all out.
 
-ALL SCRIPTS/PROGRAMMS: https://github.com/sgtfettsack?tab=repositories
+ALL SCRIPTS/TOOLS: https://github.com/sgtfettsack?tab=repositories
